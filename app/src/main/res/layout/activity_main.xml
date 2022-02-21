@@ -63,6 +63,7 @@
         android:hint="Intensidad"
         android:inputType="numberDecimal"
         android:maxLength="5"
+        android:textAlignment="center"
         android:textColor="@color/white"
         android:textColorHint="@color/teal_200"
         android:textSize="16sp"
@@ -82,6 +83,7 @@
         android:hint="Resistencia"
         android:inputType="number"
         android:maxLength="5"
+        android:textAlignment="center"
         android:textColor="@color/white"
         android:textColorHint="@color/teal_200"
         android:textSize="16sp"
@@ -120,5 +122,27 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etVariableB"
         app:layout_constraintVertical_bias="0.522" />
+
+    <TextView
+        android:id="@+id/labelA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toTopOf="@+id/etVariableB"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etVariableA"
+        app:layout_constraintVertical_bias="0.00999999" />
+
+    <TextView
+        android:id="@+id/labelB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etVariableB" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

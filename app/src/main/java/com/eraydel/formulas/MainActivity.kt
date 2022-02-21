@@ -98,6 +98,8 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemClickListener {
         binding.tvMensaje.text=textMensaje
         binding.etVariableA.hint = varA
         binding.etVariableB.hint = varB
+        binding.labelA.text = varA
+        binding.labelB.text = varB
         if(!showBotton) binding.etVariableA.visibility = View.INVISIBLE else binding.etVariableA.visibility = View.VISIBLE
         if(!showBotton) binding.etVariableB.visibility = View.INVISIBLE else binding.etVariableB.visibility = View.VISIBLE
         if(showBotton) binding.btnCalcular.visibility = View.VISIBLE else binding.btnCalcular.visibility = View.INVISIBLE

@@ -24,7 +24,7 @@ class Resultado : AppCompatActivity() {
         analytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT){
             param(FirebaseAnalytics.Param.ITEM_ID,"2")
             param(FirebaseAnalytics.Param.ITEM_NAME,"Pantalla resultado")
-            param(FirebaseAnalytics.Param.CONTENT_TYPE,"Pantalla")
+            param(FirebaseAnalytics.Param.CONTENT_TYPE,"Pantalla 2")
         }
 
         mp = MediaPlayer.create(this,R.raw.mariachi)
