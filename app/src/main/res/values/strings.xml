@@ -11,7 +11,7 @@
         <item>@string/opcion1</item>
         <item>@string/opcion2</item>
         <item>@string/opcion3</item>
-    </string-array>s
+    </string-array>
     <string name="str_descripcion1">La ley de Ohm se utiliza para determinar la tensión, corriente y resistencia en un circuito.</string>
     <string name="str_mensaje1">Cálculo de la tensión V = I * R</string>
     <string name="str_varA11">Intensidad(corriente)</string>
