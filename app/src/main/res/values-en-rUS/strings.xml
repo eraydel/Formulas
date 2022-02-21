@@ -6,19 +6,19 @@
     <string name="bienvenido">Welcome, to start choose one of the mathematical formulas and interact with them.</string>
     <string name="str_descripcion1">Ohm\'s law is used to determine the voltage, current, and resistance in a circuit.</string>
     <string name="str_mensaje1">Calculation of voltage V = I * R</string>
-    <string name="str_varA11">" Intensity(current)"</string>
-    <string name="str_varA12">" Resistencia(ohms)"</string>
+    <string name="str_varA11">" Intensity(I)"</string>
+    <string name="str_varA12">" Resistencia(R)"</string>
     <string name="str_descripcion2">A cylinder is a three-dimensional solid with 2 bases, 2 edges, and 3 faces. You have to calculate the volume of a cylinder in cubic units of measure.</string>
     <string name="str_mensaje2">Cylinder volume V = Π h r²</string>
-    <string name="str_varA21">" height(h)"</string>
+    <string name="str_varA21">" Height(h)"</string>
     <string name="str_varA22">" Radio(r)"</string>
     <string name="str_descripcion3">The area or surface of any triangle is equal to the product of the base times the height divided by two.</string>
     <string name="str_mensaje3">Area of ​​triangle A = (b*h)/2</string>
     <string name="str_varA31">Base(b)</string>
-    <string name="str_varA32">" height(h)"</string>
-    <string name="tvTitulo">" selected formula"</string>
+    <string name="str_varA32">" Height(h)"</string>
+    <string name="tvTitulo">" Selected formula"</string>
     <string name="actvFormulas">Choose a formula</string>
-    <string name="tvMensajeFinal">The result is</string>
+    <string name="tvMensajeFinal">The result is:</string>
     <string name="opcion1">Ohm\'s law (electrical voltage)</string>
     <string name="opcion2">Volume of a cylinder</string>
     <string name="opcion3">" Triangle area(equilateral"</string>

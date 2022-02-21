@@ -14,8 +14,8 @@
     </string-array>
     <string name="str_descripcion1">La ley de Ohm se utiliza para determinar la tensión, corriente y resistencia en un circuito.</string>
     <string name="str_mensaje1">Cálculo de la tensión V = I * R</string>
-    <string name="str_varA11">Intensidad(corriente)</string>
-    <string name="str_varA12">Resistencia(ohms)</string>
+    <string name="str_varA11">Intensidad(I)</string>
+    <string name="str_varA12">Resistencia(R)</string>
 
     <string name="str_descripcion2">Un cilindro es un sólido tridimensional con 2 bases, 2 bordes y 3 caras. Tienes que calcular el volumen de un cilindro en unidades cúbicas de medida.</string>
     <string name="str_mensaje2">Volúmen del cilindro V = Π h r²</string>

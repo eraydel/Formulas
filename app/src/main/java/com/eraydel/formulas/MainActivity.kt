@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemClickListener {
                     resources.getString(R.string.str_descripcion1),
                     resources.getString(R.string.str_mensaje1),
                     resources.getString(R.string.str_varA11),
-                    resources.getString(R.string.str_varA21),
+                    resources.getString(R.string.str_varA12),
                     true
                 )
             }
