@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372342008969",
+    "project_id": "formulas-3ede7",
+    "storage_bucket": "formulas-3ede7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372342008969:android:d234418d20954feb616a58",
+        "android_client_info": {
+          "package_name": "com.eraydel.formulas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372342008969-uajkcnep8es6eqjkpjq0h9h9ehb6tlvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZTzvXpkuS0uQa0jjaMkmJBzCqgI1pDSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372342008969-uajkcnep8es6eqjkpjq0h9h9ehb6tlvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

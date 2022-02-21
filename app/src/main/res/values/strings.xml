@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fórmulas</string>
+    <string name="actvFormulas">Selecciona una fórmula</string>
+    <string name="ingresa_valor">Por favor ingresa un número</string>
+    <string name="valor_requerido">Valor requerido!</string>
+    <string name="opcion1">Ley de Ohm (tensión eléctrica)</string>
+    <string name="opcion2">Volúmen de un cilindro</string>
+    <string name="opcion3">Área del triángulo(equilatero)</string>
+    <string name="bienvenido">Bienvenido, para comenzar elige alguna de las fórmulas matematicas e interactua con ellas.</string>
+    <string-array name="listado_formulas">
+        <item>@string/opcion1</item>
+        <item>@string/opcion2</item>
+        <item>@string/opcion3</item>
+    </string-array>s
+    <string name="str_descripcion1">La ley de Ohm se utiliza para determinar la tensión, corriente y resistencia en un circuito.</string>
+    <string name="str_mensaje1">Cálculo de la tensión V = I * R</string>
+    <string name="str_varA11">Intensidad(corriente)</string>
+    <string name="str_varA12">Resistencia(ohms)</string>
+
+    <string name="str_descripcion2">Un cilindro es un sólido tridimensional con 2 bases, 2 bordes y 3 caras. Tienes que calcular el volumen de un cilindro en unidades cúbicas de medida.</string>
+    <string name="str_mensaje2">Volúmen del cilindro V = Π h r²</string>
+    <string name="str_varA21">Altura(h)</string>
+    <string name="str_varA22">Radio(r)</string>
+
+    <string name="str_descripcion3">El área o superficie de un triángulo cualquiera es igual al producto de la base por la altura dividido entre dos.</string>
+    <string name="str_mensaje3">Área del triángulo A = (b*h)/2</string>
+    <string name="str_varA31">Base(b)</string>
+    <string name="str_varA32">Altura(h)</string>
+    <string name="tvTitulo">Fórmula seleccionada</string>
+    <string name="tvMensajeFinal">El resultado es: </string>
+    <string name="btnCalculo">Realizar cálculo</string>
+</resources>
